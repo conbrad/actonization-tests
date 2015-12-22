@@ -2,7 +2,7 @@
 #include <cstdint>
 using namespace std;
 
-const uint64_t MAX_CAPACITY = 10000000;
+const uint64_t MAX_CAPACITY = 1000;
 
 int totalNationMeetings = 0;
 
